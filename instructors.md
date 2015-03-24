@@ -1,7 +1,7 @@
 # Instructors
 
-* [Joshua] (http://github/jaw6) 
+* [Joshua abc] (http://github/jaw6) 
   * Minneapolis. MN
-* Jordan
+* Jordan michael 
 
 [Link to training kit] (https://training.github.com/)
