@@ -3,3 +3,4 @@
 
 Repository for Foundation class http://training.github.com/kit/foundations
 
+read [contributor.md] for contributor info 
